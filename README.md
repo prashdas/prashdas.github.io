@@ -20,5 +20,5 @@ MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, In
 
 Click on the images to navigate to the research publication.
 
-<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png" width="300" >   <img src="images/vortex-flap4-flexible-vort.png" width="400" title = "Vortex pair generation with hinged-rigid flaps>
+<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png" width="300" >   <img src="images/vortex-flap4-flexible-vort.png" width="400" title = "Vortex pair generation with hinged-rigid flaps">
 
