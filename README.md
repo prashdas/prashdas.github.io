@@ -4,7 +4,7 @@ I am a research engineer with 10+ years of experience in a broad range of topics
 
 ### A brief visual overview of my research projects
 
-![hinged rigid flaps](images/vortex-flap4.png width="200" height="400")
+![hinged rigid flaps](images/vortex-flap4.png){:height="24px" width="48px"}
 ![flexible flaps](images/vortex-flap4-flexible-vort.png)
 
 
