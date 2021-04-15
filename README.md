@@ -18,7 +18,7 @@ Click on the images to navigate to the research publication.
 
 #### Unsteady jets with hinged-rigid leaflets 
 <a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png" width="300" title = "Dye visualization of vortex formation with hinged-rigid flaps"> 
-
+<br>
 #### Unsteady jets with deformable (flexible) leaflets  
 <a href="https://doi.org/10.1017/jfm.2018.230"><img src="images/vortex-flap4-flexible-vort.png" width="300" title = "PIV measurements of vortex pair generation with flexible flaps">
 
