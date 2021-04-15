@@ -2,7 +2,9 @@
 
 [About Me](/AboutMe)
 
-## A (brief) visual overview of my research projects
+[A (brief) visual overview of my research projects](/ResearchProjects)
+
+## 
 
 Click on the images to navigate to the research publication.
 
