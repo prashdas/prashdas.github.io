@@ -1,18 +1,16 @@
 ## Research and educational background
 
-Postdoctoral Fellow - Lab of Turbulent Flows (University of Alberta, Canada)
-2018 - 2020
+Postdoctoral Fellow - Lab of Turbulent Flows (University of Alberta, Canada) <br>
+**2018 - 2020**
 
-Postdoctoral Fellow - Biofluids Lab (Technion - Israel Institute of Technology, Israel)
-2016 - 2018
+Postdoctoral Fellow - Biofluids Lab (Technion - Israel Institute of Technology, Israel) <br>
+**2016 - 2018**
 
-PhD (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India)
-2016
+PhD (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India) **2016**
 
-MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India)
-2009
+MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India) **2009**
 
-### A brief visual overview of my research projects
+## A (brief) visual overview of my research projects
 
 Click on the images to navigate to the research publication.
 
