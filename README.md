@@ -1,7 +1,3 @@
-# Prashant Das, PhD
-
-I am a research engineer with 10+ years of experience in a broad range of topics in experimental and computational fluid dynamics relevant to mechanical and biomedical engineering systems.
-
 ## Research and educational background
 
 Postdoctoral Fellow - Lab of Turbulent Flows (University of Alberta, Canada)
