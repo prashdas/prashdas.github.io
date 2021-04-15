@@ -1,5 +1,11 @@
 Clicking on each image will take you to its corresponding publication's page.
 
+
+https://user-images.githubusercontent.com/78398909/114950321-c8cdba80-9e20-11eb-81d9-d93b5b0f11b0.mp4
+
+
+
+
 #### 3D Particle Tracking Velocimetry of flow turbulence
 <a href="https://doi.org/10.1103/PhysRevFluids.5.114605"><img src="images/Diffuser-PTV.png?raw=true" width="600" title = "Time-resolved 3D PTV measurement of turbulent flow in a diffuser"> 
 
