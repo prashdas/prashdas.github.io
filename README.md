@@ -1,35 +1,24 @@
-## Prashant Das - Research CV
+# Prashant Das, PhD
 
 I am a research engineer with 10+ years of experience in a broad range of topics in experimental and computational fluid dynamics relevant to mechanical and biomedical engineering systems.
 
+## Research and educational background
+
+Postdoctoral Fellow - Lab of Turbulent Flows (University of Alberta, Canada)
+2018 - 2020
+
+Postdoctoral Fellow - Biofluids Lab (Technion - Israel Institute of Technology, Israel)
+2016 - 2018
+
+PhD (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India)
+2016
+
+MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India)
+2009
+
 ### A brief visual overview of my research projects
 
-<img src="images/vortex-flap4.png" width="400">   <img src="images/vortex-flap4-flexible-vort.png" width="400">
+Click on the images to navigate to the research publication.
 
-```markdown
-Syntax highlighted code block
+<img src="images/vortex-flap4.png" width="300">   <img src="images/vortex-flap4-flexible-vort.png" width="400">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prashdas/prashdas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
