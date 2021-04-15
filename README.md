@@ -4,8 +4,8 @@ I am a research engineer with 10+ years of experience in a broad range of topics
 
 ### A brief visual overview of my research projects
 
-<img src="images/vortex-flap4.png" width="400" height="400">
-<img src="images/vortex-flap4-flexible-vort.png" width="400" height="400">
+<img src="images/vortex-flap4.png" width="400">
+<img src="images/vortex-flap4-flexible-vort.png" width="400">
 
 ```markdown
 Syntax highlighted code block
