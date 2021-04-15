@@ -23,7 +23,9 @@ Click on the images to navigate to the research publication.
 <a href="https://doi.org/10.1103/PhysRevFluids.5.114605"><img src="images/Diffuser-PTV.png" width="600" title = "Time-resolved 3D PTV measurement of turbulent flow in a diffuser"> 
 
 #### Aerosol deposition in upper airways of lungs (CFD) - implications with age
-&emsp; &emsp;  <a href="https://doi.org/10.1371/journal.pone.0207711">{:target="_blank"}<img src="images/CFD.png" width="400" title = "CFD simulation of airflow and aerosol deposition in the upper airways">
+&emsp; &emsp;  <a href="https://doi.org/10.1371/journal.pone.0207711"><img src="images/CFD.png" width="400" title = "CFD simulation of airflow and aerosol deposition in the upper airways">
 
+#### Aerosol deposition in upper airways of lungs (CFD) - implications with age
+<p><a href="https://doi.org/10.1371/journal.pone.0207711" target="_blank"><img src="images/CFD.png" width="400" title = "CFD simulation of airflow and aerosol deposition in the upper airways"></a></p>
 
 
