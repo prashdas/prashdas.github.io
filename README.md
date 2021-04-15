@@ -6,7 +6,8 @@ Postdoctoral Fellow - Lab of Turbulent Flows (University of Alberta, Canada) <br
 Postdoctoral Fellow - Biofluids Lab (Technion - Israel Institute of Technology, Israel) <br>
 **2016 - 2018**
 
-PhD (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India) **2016**
+PhD (2016), MSc (2009) 
+Flow Physics Lab (Mechanical Engineering - Indian Institute of Science, India) **2016**
 
 MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, India) **2009**
 
