@@ -2,19 +2,9 @@
 
 I am a research engineer with 10+ years of experience in a broad range of topics in experimental and computational fluid dynamics relevant to mechanical and biomedical engineering systems.
 
-* Experienced interdisciplinary researcher with a proven track record of working in multi-cultural settings.
-* Strong technical writing and communication skills.
-* Expert in developing codes and numerical algorithms for extensive data processing using MATLAB and Python.
-* Experienced with designing experimental setups and handling instrumentation for data acquisition.
-* Expertise in fluid-structure interaction, biofluid dynamics, turbulent flows, vortex dynamics, bluff-body aerodynamics, heat transfer.
-* Proficient in data visualization using Tecplot, Python, MATLAB.
-* Proficient with computational modeling software like ANSYS (Fluent). Experienced with meshing software like ICEM.
-* Expertise in flow measurement techniques like PIV and PTV.
-* Well-versed with image processing and image segmentation techniques.
+### A brief visual overview of my research projects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
