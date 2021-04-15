@@ -4,7 +4,8 @@ I am a research engineer with 10+ years of experience in a broad range of topics
 
 ### A brief visual overview of my research projects
 
-![vortex pair](https://github.com/prashdas/prashdas.github.io/blob/main/vortexpairviz.png)
+![hinged rigid flaps](https://github.com/prashdas/prashdas.github.io/blob/main/vortex-flap4.png)
+![flexible flaps](https://github.com/prashdas/prashdas.github.io/blob/main/vortex-flap4-flexible-vort.png)
 
 
 ```markdown
