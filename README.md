@@ -4,7 +4,7 @@ I am a research engineer with 10+ years of experience in a broad range of topics
 
 ### A brief visual overview of my research projects
 
-![vortex pair]{https://github.com/prashdas/prashdas.github.io/blob/main/vortexpairviz.png}
+![vortex pair](https://github.com/prashdas/prashdas.github.io/blob/main/vortexpairviz.png)
 
 
 ```markdown
