@@ -16,8 +16,8 @@ MSc (Mechanical Engineering) - Flow Physics Lab (Indian Institute of Science, In
 
 Click on the images to navigate to the research publication.
 
-#### <pre> Unsteady jets with hinged-rigid leaflets                      Unsteady jets with deformable (flexible) leaflets  
-<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png" width="300" title = "Dye visualization of vortex formation with hinged-rigid flaps">  <a href="https://doi.org/10.1017/jfm.2018.230"><img src="images/vortex-flap4-flexible-vort.png" width="400" title = "PIV measurements of vortex pair generation with flexible flaps">
+#### Unsteady jets with hinged-rigid leaflets &emsp; &emsp; &emsp; Unsteady jets with deformable (flexible) leaflets  
+<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png" width="300" title = "Dye visualization of vortex formation with hinged-rigid flaps">  <a href="https://doi.org/10.1017/jfm.2018.230"><img src="images/vortex-flap4-flexible-vort.png" width="300" title = "PIV measurements of vortex pair generation with flexible flaps">
 
 #### 
 
