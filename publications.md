@@ -26,7 +26,7 @@ S Elias-Kirma, A Artzy-Schnirman , Prashant Das,  M Heller-Algazi, N Korin  and 
 L Shachar-Berman, S Bhardwaj, Y Ostrovski, P Das, P Koullapis, S Kassinos and J Sznitman [Pharmaceutics, 2020](https://doi.org/10.3390/pharmaceutics12030230)  <br> 
 
 #### 10. Prey Capturing Dynamics and Nanomechanically Graded Cutting Apparatus of Dragonfly Nymph.  <br>
-L Kundanati, Prashant Das, N M Pugno [Materials, 2021] (https://doi.org/10.3390/ma14030559)  <br>
+L Kundanati, Prashant Das, N M Pugno [Materials, 2021](https://doi.org/10.3390/ma14030559)  <br>
  
 #### 11. Large-scale volumetric particle tracking velocimetry in the wake of an Ahmed body in crossflow. <br>
 A Booysen, Prashant Das, S Ghaemi. **AIAA** (*Under Review*)  <br>
