@@ -3,7 +3,7 @@ docs_list_title: Documentation
 docs:
 
 - title: Introduction
-  url: README.md
+  url: FrontPage.md
   
 logo: "/images/profile2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
