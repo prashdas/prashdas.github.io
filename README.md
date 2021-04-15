@@ -4,6 +4,9 @@
 
 [A (brief) visual overview of my research projects](/ResearchProjects)
 
+[Journal Publications](/Publications)
+
+
 ## 
 
 Click on the images to navigate to the research publication.
