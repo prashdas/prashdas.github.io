@@ -3,8 +3,8 @@ Clicking on each image will take you to its corresponding publication's page.
 #### 3D Particle Tracking Velocimetry (3D-PTV) of flow turbulence in a diffuser
 <a href="https://doi.org/10.1103/PhysRevFluids.5.114605"><img src="images/particle_tracks.gif" width="600" title = "Time-resolved 3D PTV measurement of turbulent flow in a diffuser"> 
 
-#### Light-scattering characteristics of different tracer particles 
-<a href="https://doi.org/10.1088/1361-6501/abf25c"><img src="images/MST_Setup.png" width="300" title = "3D PTV measurement setup"> <a href="https://doi.org/10.1088/1361-6501/abf25c"><img src="images/sample_tracks2.png" width="300" title = "Time-resolved 3D PTV tracks">
+#### Light-scattering characteristics of tracer particles with multiple viewing angles
+<a href="https://doi.org/10.1088/1361-6501/abf25c"><img src="images/MST_Setup.png" width="450" title = "3D PTV measurement setup"> <a href="https://doi.org/10.1088/1361-6501/abf25c"><img src="images/sample_tracks2.png" width="250" title = "Time-resolved 3D PTV tracks">
 
 
 #### Aerosol deposition in upper airways of lungs (CFD) - implications with age
@@ -16,6 +16,9 @@ Clicking on each image will take you to its corresponding publication's page.
 #### Unsteady jets with hinged-rigid leaflets 
 <p><a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png?raw=true" width="250" title = "Dye visualization of vortex formation with hinged-rigid flaps" >
 </a></p>
-Here's a fun movie of the same visualization. <br>
 
+**And here's a fun movie of the same visualization.** <br>
 <img src="images/2flap2.gif" >
+
+#### Prey capturing dynamics of dragonfly nymph
+<p><a href="https://doi.org/10.3390/ma14030559"><img src="images/dragonfly_feeding.gif?raw=true" width="300" title = "High-speed imaging of a dragonfly nymph feeding on a mosquito larva" > </a></p>
