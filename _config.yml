@@ -1,9 +1,5 @@
 title: Prashant Das, PhD
-docs_list_title: Documentation
-docs:
-
-- title: Introduction
-  url: ReadMe.md
+url: ReadMe.md
   
 logo: "/images/profile3.png?raw=true"  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
@@ -14,4 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <br><br>
 layout: full
+author_profile: false
+
 theme: jekyll-theme-minimal
