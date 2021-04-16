@@ -1,7 +1,6 @@
 title: Prashant Das, PhD
 logo: "/images/profile3.png?raw=true"  # your photo (or logo) here
-navbar-links:
-  About Me: "aboutme"
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a research engineer with 10+ years of experience
   in a broad range of topics related to fluid dynamics. <br>
@@ -9,6 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/prashdas/">View My LinkedIn Profile</a> 
   <br><br>
   <br><br>
-layout: full
+layout: archive
 
 theme: jekyll-theme-minimal
