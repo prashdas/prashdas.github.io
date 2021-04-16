@@ -10,6 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <br><br>
 layout: full
-author_profile: false
 
 theme: jekyll-theme-minimal
