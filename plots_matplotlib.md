@@ -10,15 +10,16 @@ This is a plot of an experimentally measured velocity field of a two-dimensional
 The data required to plot these streamlines and velocity contours are in the form of a matrix organized as [x, y, u, v]. Here x,y are the Cartesian coordinates and u,v are the two corresponding components of velocity. 
 
 ```
+# First the header - 
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import griddata
 
-file_Vel= 'Vel_%d.dat' % (i)
-file_Vort= 'Vort_%d.dat' % (i)
-u,v = np.loadtxt(file_Vel, usecols=(2,3), unpack=True)
-x,y,u,w = np.loadtxt(file_Vort, usecols=(0,1,2,3), unpack=True)
+# Load the file
+file_name = 'Velocity_field.dat'
+x,y,u,v = np.loadtxt(file_name, usecols=(0,1,2,3), unpack=True)
 
+xmin=round(x.min());  xmax=round(x.max());  ymin=round(y.min());  ymax=round(y.max());
 ```
 
 
