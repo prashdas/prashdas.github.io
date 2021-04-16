@@ -13,7 +13,7 @@ Clicking on each image will take you to its corresponding publication's page.
 <a href="https://doi.org/10.1017/jfm.2018.230"><img src="images/flexibleflap2.gif" width="300" title = "PIV measurements of vortex pair generation with flexible flaps">
   
 #### Unsteady jets with hinged-rigid leaflets 
-<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/2flap2.gif.png?raw=true" width="300" title = "Dye visualization of vortex formation with hinged-rigid flaps" >
+<a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/2flap2.gif" width="300" title = "Dye visualization of vortex formation with hinged-rigid flaps" >
   
 #### Prey capturing dynamics of dragonfly nymph
 <p><a href="https://doi.org/10.3390/ma14030559"><img src="images/dragonfly_feeding.gif?raw=true" width="300" title = "High-speed imaging of a dragonfly nymph feeding on a mosquito larva" > </a></p>
