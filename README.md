@@ -1,8 +1,8 @@
-[About Me](/docs/AboutMe)
+[About Me](/AboutMe)
 
-[A (brief) visual overview of my research projects](/docs/ResearchProjects)
+[A (brief) visual overview of my research projects](/ResearchProjects)
 
-[Journal Publications](/docs/publications)
+[Journal Publications](/publications)
 
-[How to **matplotlib**](/docs/plots_matplotlib) <br>
+[How to **matplotlib**](/plots_matplotlib) <br>
 A python way of generating publication quality plots.
