@@ -13,5 +13,6 @@ Clicking on each image will take you to its corresponding publication's page.
 #### Unsteady jets with hinged-rigid leaflets 
 <p><a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png?raw=true" width="250" title = "Dye visualization of vortex formation with hinged-rigid flaps" >
 </a></p>
-Here's a fun movie of the same visualization.
-<img src="images/2flap2.gif?raw=true" width="250" " >
+Here's a fun movie of the same visualization. <br>
+
+<img src="images/2flap2.gif" >
