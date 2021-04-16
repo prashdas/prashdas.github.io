@@ -14,7 +14,4 @@ Clicking on each image will take you to its corresponding publication's page.
 <p><a href="https://doi.org/10.1017/jfm.2013.356"><img src="images/vortex-flap4.png?raw=true" width="250" title = "Dye visualization of vortex formation with hinged-rigid flaps" >
 </a></p>
 Here's a fun movie of the same visualization.
-
-https://user-images.githubusercontent.com/78398909/114950935-14349880-9e22-11eb-8d4e-c21bbc25108c.mov
-
-
+<img src="images/2flap2.gif?raw=true" width="250" " >
