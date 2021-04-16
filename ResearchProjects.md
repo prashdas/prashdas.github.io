@@ -1,7 +1,7 @@
 Clicking on each image will take you to its corresponding publication's page.
 
 #### 3D Particle Tracking Velocimetry of flow turbulence
-<a href="https://doi.org/10.1103/PhysRevFluids.5.114605"><img src="images/Diffuser-PTV.png?raw=true" width="600" title = "Time-resolved 3D PTV measurement of turbulent flow in a diffuser"> 
+<a href="https://doi.org/10.1103/PhysRevFluids.5.114605"><img src="images/particle_tracks.gif" width="600" title = "Time-resolved 3D PTV measurement of turbulent flow in a diffuser"> 
 
 
 #### Aerosol deposition in upper airways of lungs (CFD) - implications with age
