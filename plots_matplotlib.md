@@ -12,14 +12,15 @@ I was impressed when I first came across matplotlib (or Python for that matter).
 The data required to plot these streamlines and velocity contours are in the form of a matrix organized as [x, y, u, v]. Here x,y are the Cartesian coordinates and u,v are the two corresponding components of velocity. 
 
 ```
-# First the header - 
+# First we import the required libraries - 
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import griddata
 
-# Load the file
+# Then we load the file and variables -
 file_name = 'Velocity_field.dat'
 x,y,u,v = np.loadtxt(file_name, usecols=(0,1,2,3), unpack=True)
 
+# Some basic processing to set boundaries etc.
 xmin=round(x.min());  xmax=round(x.max());  ymin=round(y.min());  ymax=round(y.max());
 ```
