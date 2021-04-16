@@ -2,7 +2,7 @@
 
 Matplotlib is a python library for generating appealing plots that are ready to go into your presentations/articles. I used it extensively during my PhD and postdocs and keep returning to it as I work on data science / ML projects. I hope I can sell it to you (*if you don't use it already, that is*) with a sample plot.
 
-<img src="python_matplotlib/sample_streams.png?raw=true" width="250" title = "Streamlines showing the formation of multiple vortices in the presence of flexible flaps">
+<img src="python_matplotlib/sample_streams.png?raw=true" width="250" title = "Streamlines showing the formation of multiple vortices in the presence of flexible flaps"> <img src="python_matplotlib/sample_streams2.png?raw=true" width="250" title = "Streamlines showing the formation of multiple vortices in the presence of flexible flaps">
 <br><br>
 
 This is a plot of an experimentally measured velocity field of a two-dimensional starting jet. The two thick black lines represent bendable flaps that move and deform based on the fluid forces. The plot shows streamlines of the velocity field which are laid on top of the colored contours of velocity magnitude. Now, it is clear from the swirling streamlines that there are at least two large vortices in the flow. 
