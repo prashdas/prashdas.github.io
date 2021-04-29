@@ -6,3 +6,5 @@
 
 ### [How to **matplotlib**](/plots_matplotlib) <br>
 ##### A python way of generating publication quality plots.
+
+### Data visualization
