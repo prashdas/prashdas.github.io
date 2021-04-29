@@ -8,3 +8,4 @@
 ##### A python way of generating publication quality plots.
 
 ### [Data visualization](/python_folium)
+Click here to see (/python_folium/World_population.html)
